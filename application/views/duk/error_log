@@ -1,0 +1,4 @@
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k9792511/public_html/demo/haris/application/views/duk/print_duk.php on line 225
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k9792511/public_html/demo/haris/application/views/duk/cetak_duk.php on line 431
+[31-Mar-2015 19:12:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/k9792511/public_html/demo/haris/application/views/duk/duk_ajax.php on line 26
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/duk/duk.php on line 5

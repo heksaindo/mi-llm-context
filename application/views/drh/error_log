@@ -1,0 +1,12 @@
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/detail_pegawai.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/cetak_usulan.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k9792511/public_html/demo/haris/application/views/drh/custom_js.php on line 75
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k9792511/public_html/demo/haris/application/views/drh/draft_surat.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/edit_pegawai.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/pribadi_pegawai.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/detail_empty.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/add_pegawai.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Call to undefined function get_name() in /home/k9792511/public_html/demo/haris/application/views/drh/print_cv.php on line 125
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/histori_usulan.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/pegawai.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/drh/rekap_pegawai.php on line 5

@@ -1,0 +1,3 @@
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/tubel/tubel.php on line 5
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/tubel/add_tubel.php on line 19
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/tubel/approve_tubel.php on line 5

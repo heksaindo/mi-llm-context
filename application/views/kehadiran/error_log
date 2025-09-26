@@ -1,0 +1,6 @@
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kehadiran/kehadiran.php on line 5
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kehadiran/SuratMutasi.php on line 10
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/k9792511/public_html/demo/haris/application/views/kehadiran/add_kehadiran.php on line 23
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kehadiran/surat_mutasi.php on line 34
+[31-Mar-2015 19:12:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/k9792511/public_html/demo/haris/application/views/kehadiran/CetakSuratMutasi.php on line 2
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kehadiran/CetakSuratMutasi.php on line 13

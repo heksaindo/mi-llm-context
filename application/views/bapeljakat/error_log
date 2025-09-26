@@ -1,0 +1,7 @@
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/bapeljakat/bapeljakat_add.php on line 5
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/bapeljakat/print_bapeljakat.php on line 321
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/bapeljakat/bapeljakat_rekap.php on line 5
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/bapeljakat/bapeljakat_periode_add.php on line 5
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/bapeljakat/bapeljakat_detail.php on line 5
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/bapeljakat/bapeljakat.php on line 5
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/bapeljakat/periode_bapeljakat.php on line 5

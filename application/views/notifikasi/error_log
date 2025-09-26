@@ -1,0 +1,3 @@
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/notifikasi/notifikasi-perubahan_drh.php on line 6
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/notifikasi/notifikasi-permintaan_cuti.php on line 6
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/notifikasi/notifikasi-permintaan_lembur.php on line 6

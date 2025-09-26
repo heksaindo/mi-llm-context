@@ -1,0 +1,6 @@
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/engine_report/list_report.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/engine_report/running.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/engine_report/master_group.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/engine_report/master_field.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/engine_report/setting_report.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/engine_report/master_group_relasi.php on line 5

@@ -1,0 +1,5 @@
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kp-old/add_kp.php on line 5
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kp-old/edit_kp.php on line 5
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kp-old/histori_kp.php on line 5
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kp-old/kp.php on line 6
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kp-old/add_kp_pilihan.php on line 5

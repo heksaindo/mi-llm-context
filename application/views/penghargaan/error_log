@@ -1,0 +1,2 @@
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/penghargaan/penghargaan.php on line 5
+[31-Mar-2015 19:12:39 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/penghargaan/add_penghargaan.php on line 35

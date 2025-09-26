@@ -1,0 +1,4 @@
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Call to undefined function set_value() in /home/k9792511/public_html/demo/haris/application/views/cuti/add_cuti.php on line 26
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/cuti/approve_cuti.php on line 5
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/cuti/cuti.php on line 5
+[31-Mar-2015 19:12:38 UTC] PHP Fatal error:  Call to undefined function toInaDate() in /home/k9792511/public_html/demo/haris/application/views/cuti/cetak_cuti.php on line 541

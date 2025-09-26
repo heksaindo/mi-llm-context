@@ -1,0 +1,14 @@
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/step3.php on line 5
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Call to undefined function dateDifference() in /home/k9792511/public_html/demo/haris/application/views/angkakredit/print_step4.php on line 86
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/k9792511/public_html/demo/haris/application/views/angkakredit/print_pengantar4.php on line 59
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Call to undefined function toInaPeriode() in /home/k9792511/public_html/demo/haris/application/views/angkakredit/print_step2.php on line 102
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/vstep4.php on line 5
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/vstep2.php on line 5
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/step4.php on line 5
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/running.php on line 5
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/angkakredit_histori.php on line 5
+[31-Mar-2015 19:12:41 UTC] PHP Fatal error:  Call to undefined function toInaPeriode() in /home/k9792511/public_html/demo/haris/application/views/angkakredit/print_step3.php on line 95
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/step1.php on line 36
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/vstep3.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/step2.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakredit/step4_bu.php on line 5

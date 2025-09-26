@@ -1,0 +1,11 @@
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/step3.php on line 5
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Call to undefined function toInaDate() in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/print_step4.php on line 50
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Call to undefined function toInaDate() in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/print_step2.php on line 49
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/vstep4.php on line 5
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/vstep2.php on line 5
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/step4.php on line 5
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/angkakredit_histori.php on line 5
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Call to undefined function toInaDate() in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/print_step3.php on line 50
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/step1.php on line 5
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/vstep3.php on line 5
+[31-Mar-2015 19:12:37 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/angkakreditold/step2.php on line 5

@@ -1,0 +1,7 @@
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kgp/edit_kgp.php on line 5
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kgp/add_kgp_pilihan.php on line 5
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Call to undefined function toInaDate() in /home/k9792511/public_html/demo/haris/application/views/kgp/cetak_kgp.php on line 228
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kgp/histori_kgp.php on line 5
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Call to undefined function toInaDate() in /home/k9792511/public_html/demo/haris/application/views/kgp/cetak_kgp-old.php on line 231
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kgp/kgp.php on line 5
+[31-Mar-2015 19:12:43 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/kgp/add_kgp.php on line 5

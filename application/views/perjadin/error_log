@@ -1,0 +1,3 @@
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/perjadin/add_perjadin.php on line 19
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/perjadin/perjadin.php on line 5
+[31-Mar-2015 19:12:40 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/perjadin/approve_perjadin.php on line 5

@@ -1,0 +1,6 @@
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/pensiun/edit_pensiun.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/pensiun/add_pensiun.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/pensiun/pensiun.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Call to undefined function get_name() in /home/k9792511/public_html/demo/haris/application/views/pensiun/cetak_pensiun.php on line 147
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/pensiun/add_pensiun_pilihan.php on line 5
+[31-Mar-2015 19:12:42 UTC] PHP Fatal error:  Using $this when not in object context in /home/k9792511/public_html/demo/haris/application/views/pensiun/pensiun_histori.php on line 5
